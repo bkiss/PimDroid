@@ -1,0 +1,38 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+ 
+    <PreferenceCategory android:title="@string/pref_user_profile">
+        <EditTextPreference
+             android:title="@string/pref_user_name" 
+             android:summary="@string/pref_user_name_summary" 
+             android:key="prefUsername">
+        </EditTextPreference>
+        <EditTextPreference
+             android:title="@string/pref_user_pass" 
+             android:summary="@string/pref_user_pass_summary" 
+             android:key="prefUserpass">
+        </EditTextPreference>
+    </PreferenceCategory>
+     
+    <PreferenceCategory android:title="@string/pref_host_setting">
+       <EditTextPreference
+             android:title="@string/pref_host" 
+             android:summary="@string/pref_host_summary" 
+             android:key="prefHost">
+        </EditTextPreference>
+    </PreferenceCategory>
+    
+    <PreferenceCategory android:title="@string/pref_actionstring_setting">
+       <EditTextPreference
+             android:title="@string/pref_actionstring_on" 
+             android:summary="@string/pref_actionstring_on_summary" 
+             android:key="prefActionstringOn">
+        </EditTextPreference>
+        <EditTextPreference
+             android:title="@string/pref_actionstring_off" 
+             android:summary="@string/pref_actionstring_off_summary" 
+             android:key="prefActionstringOff">
+        </EditTextPreference>
+    </PreferenceCategory>
+ 
+</PreferenceScreen><!-- From: file:/Users/Macbook/AndroidstudioProjects/GateSwitch/app/src/main/res/xml/settings.xml -->

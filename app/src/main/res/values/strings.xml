@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PimDroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+ 
+     
+    <string name="pref_send_report">Send crash reports</string>
+    <string name="pref_send_report_summary">Helps to fix bugs</string>
+    <string name="pref_sync_frequency">Sync frequency</string>
+    <string name="pref_sync_frequency_summary">Set the sync frequency</string>
+    <string name="pref_user_name">Set username</string>
+    <string name="pref_user_name_summary">Set your username</string>
+    <string name="pref_user_pass">Set password</string>
+    <string name="pref_host">Set host</string>
+    <string name="pref_host_summary">Set your Pimatic host</string>
+    <string name="pref_user_pass_summary">Set your password</string>
+    <string name="pref_user_profile">User Profile</string>
+    <string name="pref_host_setting">Host Settings</string>
+    <string name="pref_actionstring_setting">ActionString Settings</string>
+    <string name="pref_actionstring_on">ActionString On</string>
+    <string name="pref_actionstring_on_summary">ActionString for turning On</string>
+    <string name="pref_actionstring_off">ActionString Off</string>
+    <string name="pref_actionstring_off_summary">ActionString for turning Off</string>
+
+</resources>

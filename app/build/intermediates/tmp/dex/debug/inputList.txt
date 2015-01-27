@@ -1,0 +1,2 @@
+/Users/Macbook/AndroidstudioProjects/GateSwitch/app/build/intermediates/classes/debug
+/Users/Macbook/AndroidstudioProjects/GateSwitch/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-0964adff4c585b8343b651602f2872148f16ab7e.jar
